@@ -95,9 +95,6 @@ These calculations enabled deeper business analysis beyond simple aggregation.
 - Year-over-Year Monthly Sales & Profit comparison
 - 15-Day Sales Forecast visualization
 - KPI cards for performance monitoring
-
-![Dashboard](<img width="1743" height="742" alt="Screenshot 2026-02-13 134429" src="https://github.com/user-attachments/assets/f505f68b-0690-48d1-9dad-bbc82ec857e5" />
-)
 ---
 
 ## 💡 Business Impact Perspective
@@ -145,6 +142,26 @@ Through this project, I strengthened:
 - Deploying dashboard for real-time cloud access
 
 ---
+
+---
+
+## 📊 Dashboard Preview
+
+### 🔹 Superstore Sales Dashboard Overview
+
+<p align="center">
+  <img src="Screenshot 2026-02-13 134429.png" width="800">
+</p>
+
+### 🔹 Sales Forecast – 15 Days Analysis
+
+<p align="center">
+  <img src="Screenshot 2026-02-13 134527.png" width="800">
+</p>
+
+
+---
+
 
 ## 👨‍💼 Author
 
